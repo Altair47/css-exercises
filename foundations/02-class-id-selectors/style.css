@@ -1,0 +1,19 @@
+.odd{
+    background-color: pink;
+    font-family:Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#idone{
+    color: blue;
+    font-size: 36px;
+}
+
+.classbutcooler{
+    font-size: 24px;
+}
+
+#idtwo{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
